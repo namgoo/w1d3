@@ -1,0 +1,3 @@
+function first() {
+  var a
+}
